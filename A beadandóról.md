@@ -17,3 +17,6 @@ Elkészültek az első sorok és oszlopok, amikből elvileg a kategóriák helye
 rendes nevekkel meg hellyel, ahová majd lehet írni (textblock != textbox, odafigyelni erre később is. xD )
 Kategóriák (eddig): vezetéknév, keresztnév, választott nem (igen, politikailag korrektség, igen), egyéb infóknak hely.
 Az egyéb infók limitálása, hogy ne lehessen kisregényeket írni oda.
+
+A szövegdobozban meg kell oldani, hogy lehessen enter nyomni, mert így hogy lehet majd tagolni a szöveget. >.<
+Vagy, ha nem épp enterrel, akkor valahogy máshogy, de ez így eléggé életképtelen.
