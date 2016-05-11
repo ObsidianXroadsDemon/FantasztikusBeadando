@@ -20,3 +20,5 @@ Az egyéb infók limitálása, hogy ne lehessen kisregényeket írni oda.
 
 A szövegdobozban meg kell oldani, hogy lehessen enter nyomni, mert így hogy lehet majd tagolni a szöveget. >.<
 Vagy, ha nem épp enterrel, akkor valahogy máshogy, de ez így eléggé életképtelen.
+--- Megoldva. :D TextWrap woow :D (Hosszú sorok tördelése? )
+Plusz: helyesírás ellenőrzés :D nagyon menő :D
